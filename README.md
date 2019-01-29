@@ -1,4 +1,5 @@
 # libsynonym
+## Библиотека полнотекстового поиска на postgresql.
 
 1 Установка postgresql:
 
