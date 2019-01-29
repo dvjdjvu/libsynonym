@@ -12,7 +12,6 @@ DESTDIR = lib
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = synonym
-#TEMPLATE = app
 TEMPLATE = lib
 
 # Версия библиотеки.
